@@ -1,0 +1,24 @@
+body {
+  margin: 0; 
+  padding: 10px; 
+  font-family: Arial, Helvetica, sans-serif; 
+  display: flex; 
+  justify-content: center; 
+  
+  
+}
+
+div {
+  background: rgb(117, 230, 194); 
+  width: 300px; 
+
+  margin-top: 50px; 
+ 
+  line-height: 70px;
+  text-align: center; 
+  
+}
+
+div:hover {
+  cursor: pointer; 
+}
